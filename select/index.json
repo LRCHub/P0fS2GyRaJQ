@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "ストライク・ザ・ブラッド",
+  "base_artist": "岸田教団&THE明星ロケッツ",
+  "createdAt": "2025-12-19T12:55:07.386937Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ストライク・ザ・ブラッド",
+      "artist": "岸田教団&THE明星ロケッツ",
+      "has_synced": true,
+      "path": "select/01_ストライク・ザ・ブラッド_岸田教団&THE明星ロケッツ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ストライク・ザ・ブラッド",
+      "artist": "Kisida Kyodan & The Akebosi Rockets",
+      "has_synced": true,
+      "path": "select/02_ストライク・ザ・ブラッド_Kisida_Kyodan_&_The_Akebosi_Rockets.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ストライク・ザ・ブラッド",
+      "artist": "岸田教団&THE明星ロケッツ",
+      "has_synced": true,
+      "path": "select/03_ストライク・ザ・ブラッド_岸田教団&THE明星ロケッツ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ストライク・ザ・ブラッド - Instrumental",
+      "artist": "岸田教団＆THE明星ロケッツ",
+      "has_synced": true,
+      "path": "select/04_ストライク・ザ・ブラッド_-_Instrumental_岸田教団&THE明星ロケッツ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ストライク・ザ・ブラッド",
+      "artist": "KISIDA KYODAN & THE AKEBOSI ROCKETS",
+      "has_synced": false,
+      "path": "select/05_ストライク・ザ・ブラッド_KISIDA_KYODAN_&_THE_AKEBOSI_ROCKETS.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ストライク・ザ・ブラッド",
+      "artist": "岸田教団 & The 明星ロケッツ",
+      "has_synced": false,
+      "path": "select/06_ストライク・ザ・ブラッド_岸田教団_&_The_明星ロケッツ.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ストライク・ザ・ブラッド",
+      "artist": "Kishida Kyoudan & The Akeboshi Rockets",
+      "has_synced": false,
+      "path": "select/07_ストライク・ザ・ブラッド_Kishida_Kyoudan_&_The_Akeboshi_Rockets.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ストライク.ザ.ブラッド",
+      "artist": "岸田教団&THE明星ロケッツ",
+      "has_synced": true,
+      "path": "select/08_ストライク.ザ.ブラッド_岸田教団&THE明星ロケッツ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ストライク・ザ・ブラッド",
+      "artist": "岸田教団 & THE 明星ロケッツ",
+      "has_synced": false,
+      "path": "select/pl_01_ストライク・ザ・ブラッド_岸田教団_&_THE_明星ロケッツ.txt"
+    }
+  ]
+}
